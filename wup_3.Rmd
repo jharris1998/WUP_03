@@ -28,7 +28,8 @@ basicCN <- ggplot(davisdata,aes(y=alcohol,x=Seat))
 basicCN + geom_boxplot()
 ```
   
-  
+Based off the box plot the people who sits in the back consume the most alcohol .   
+ 
 ### get fancy  
 
 ```{r}
