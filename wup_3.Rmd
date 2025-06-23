@@ -53,7 +53,7 @@ plot(TukeyHSD(model1))
 
 When looking at the model above it shows how the middle compared to the back does not have 0 in their confidence interval. The same is true when you compare the front and the back to each other. It also indicate there is no statistical difference between the front and middle because the back is different from everybody else. 
 
-
 ## Conclusions
 
+When going through the process with more than two variables there are more steps we have to go do which can delay the process. In this specific assignment we used the ggplot to create our box plot which showed us the median and amount of drinks that gets consumed in certain sections. Also we learned about the numerical summary to see the difference statistically and get differences in quantile. To get the probability of the same amount of drinks and consumption we ran the Inferential test and got a result of 0.000116. Using a comparison model the difference between the back compared to the front and middle is 3. 
 
