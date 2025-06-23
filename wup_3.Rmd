@@ -32,6 +32,11 @@ Based off the box plot the median people who sits in the back consumes more alco
  
 
 ## Numerical Summarys 
+```{r}
+favstats(alcohol~Seat,data=davisdata)
+```
+
+
 
 ## Inferential Tests
 
